@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hope</string>
+    <string name="notes_info">No notes avalaible</string>
+    <string name="undo_text">Undo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

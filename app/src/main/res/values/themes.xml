@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Hope" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/dark</item>
+        <item name="colorOnPrimary">@color/dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="background">@color/dark</item>
+    </style>
+
+    <style name="Theme.fab" parent="ThemeOverlay.Material3.FloatingActionButton.Primary">
+        <item name="android:backgroundTint">@color/icon_buttons</item>
+        <item name="android:tint">@color/white</item>
+    </style>
+</resources>
